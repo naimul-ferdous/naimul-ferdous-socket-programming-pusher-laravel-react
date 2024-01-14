@@ -1,0 +1,46 @@
+/laravel-chat/.phpunit.cache
+/laravel-chat/node_modules
+/laravel-chat/public/build
+/laravel-chat/public/hot
+/laravel-chat/public/storage
+/laravel-chat/storage/*.key
+/laravel-chat/vendor
+/laravel-chat/.env
+/laravel-chat/.env.backup
+/laravel-chat/.env.production
+/laravel-chat/.phpunit.result.cache
+/laravel-chat/Homestead.json
+/laravel-chat/Homestead.yaml
+/laravel-chat/auth.json
+/laravel-chat/npm-debug.log
+/laravel-chat/yarn-error.log
+/laravel-chat/.fleet
+/laravel-chat/.idea
+/laravel-chat/.vscode
+
+
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/react-chat/node_modules
+/react-chat/.pnp
+/react-chat/.pnp.js
+
+# testing
+/react-chat/coverage
+
+# production
+/react-chat/build
+
+# misc
+/react-chat/.DS_Store
+/react-chat/.env.local
+/react-chat/.env.development.local
+/react-chat/.env.test.local
+/react-chat/.env.production.local
+
+/react-chat/npm-debug.log*
+/react-chat/yarn-debug.log*
+/react-chat/yarn-error.log*
+
